@@ -20,3 +20,13 @@ package-lock.json
 
 # Misc
 # assets/js/dist
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# pip dependency files
+requirements.txt
