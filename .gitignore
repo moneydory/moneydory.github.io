@@ -27,6 +27,6 @@ __pycache__/
 
 # Virtual environment
 venv/
-
+auto/
 # pip dependency files
 requirements.txt
