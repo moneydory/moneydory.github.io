@@ -7,3 +7,6 @@ Disallow: /norobots/
 
 Sitemap: https://moneydory.github.io/sitemap.xml
 
+Sitemap: https:/shopping.haedory.com/sitemap.xml
+
+#DaumWebMasterTool:9eb43a816e34917611eea31df574c314be0ef310a4d059d25250fb92d6f9af78:JDIB+2/j1KCT/QJg3zduCQ==
