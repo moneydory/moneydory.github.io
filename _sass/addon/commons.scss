@@ -688,7 +688,15 @@ $btn-mb: 0.5rem;
   overflow-y: auto;
   width: $sidebar-width;
   z-index: 99;
+  /*
   background: var(--sidebar-bg);
+  */
+  /*위의 한줄을 아래 네줄로 변경 추가함*/
+  background: url('/assets/img/Cover.jpg');
+  background-size: 100% 100%;
+  background-position: center;
+ 
+
   border-right: 1px solid var(--sidebar-border-color);
 
   /* Hide scrollbar for Chrome, Safari and Opera */
@@ -749,13 +757,21 @@ $btn-mb: 0.5rem;
       @extend %clickable-transition;
       @extend %sidebar-link-hover;
 
+      /*오리지널 컬러*
       color: var(--site-title-color);
+      */
+      /*검은색 컬러*/
+      color: rgb(0, 0, 0);
     }
   }
 
   .site-subtitle {
     font-size: 95%;
+    /*오리지널 컬러
     color: var(--site-subtitle-color);
+    */
+    /*검은색 컬러*/
+    color: rgb(0, 0, 0);
     margin-top: 0.25rem;
     word-spacing: 1px;
     -webkit-user-select: none;

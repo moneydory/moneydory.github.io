@@ -15,7 +15,7 @@ timezone: Asia/Seoul
 
 title: JIRM SHIN # the main title
 
-tagline: Shopping & Health # it will display as the sub-title
+tagline: <strong>현명한 쇼핑을 위하여!!</strong> # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.

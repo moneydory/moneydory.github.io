@@ -4,3 +4,21 @@
 @import 'main';
 
 /* append your custom style below */
+
+/* 이미지와 버튼 음영효과 스타일 시작 */
+
+
+button:hover {
+	transform: scale(1.03);
+	box-shadow: 0.2em 0.15em 0.3em #999;
+	transition: all 0.1s linear;
+}
+
+
+
+img:hover {
+	transform: scale(1.03);
+	box-shadow: 0.2em 0.15em 0.3em #999;
+	transition: all 0.1s linear;
+}
+/* 이미지와 버튼 음영효과 스타일 끝 */
